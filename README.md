@@ -17,3 +17,11 @@ After training, the model can accurately predict the diagnosis based on the give
 
 The model achieves over 96% accuracy on unseen test data.  
 Evaluation includes key metrics like accuracy, precision, recall, and confusion matrix to ensure reliable predictions.
+
+
+# Clone the repo or download the files
+# Install required libraries
+pip install -r requirements.txt
+
+# Run the Streamlit app
+streamlit run app.py
