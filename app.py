@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-st.set_page_config(page_title="Breast Cancer Detection", layout="centered")
-st.title("🩺 Breast Cancer Detection App")
+st.set_page_config(page_title="Breast Cancer Detection Web App", layout="centered")
+st.title("🩺 Breast Cancer Detector")
 
 st.markdown("""
 This simple tool helps assess whether a tumor is likely to be **Benign (0)** or **Malignant (1)**  
